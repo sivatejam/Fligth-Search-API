@@ -1,0 +1,8 @@
+CREATE TABLE Flight(
+ID INT AUTO_INCREMENT PRIMARY KEY,
+flight_number VARCHAR(50) NOT NULL,
+origin VARCHAR(100) NOT NULL,
+destination VARCHAR(100) NOT NULL,
+departure_date_time TIMESTAMP NOT NULL,
+arrival_date_time TIMESTAMP NOT NULL,
+price INT NOT NULL);

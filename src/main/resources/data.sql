@@ -1,0 +1,14 @@
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('A101','AMS','DEL','2023-08-02 11:00:0','2023-08-02 17:00:0',850);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('B101','AMS','BOM','2023-08-02 12:00:0','2023-08-02 19:30:0',750);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('C101','AMS','BLR','2023-08-02 13:00:0','2023-08-02 18:30:0',800);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('D101','AMS','MAA','2023-08-02 19:00:0','2023-08-02 15:00:0',600);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('E101','MAA','BOM','2023-08-02 16:00:0','2023-08-02 17:30:0',100);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('F101','BOM','DEL','2023-08-02 20:30:0','2023-08-02 21:30:0',80);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('G101','BOM','DEL','2023-08-02 18:00:0','2023-08-02 19:30:0',100);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('A201','LHR','DEL','2023-08-02 11:30:0','2023-08-02 17:00:0',600);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('B201','LHR','BOM','2023-08-02 12:35:0','2023-08-02 19:30:0',750);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('C201','LHR','BLR','2023-08-02 13:45:0','2023-08-02 18:00:0',800);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('D201','LHR','MAA','2023-08-02 09:00:0','2023-08-02 15:00:0',600);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('E201','DEL','BOM','2023-08-02 18:45:0','2023-08-02 20:15:0',100);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('F201','BOM','DEL','2023-08-02 21:15:0','2023-08-02 22:30:0',80);
+INSERT INTO Flight (Flight_number,origin,destination,departure_date_time,arrival_date_time,price) VALUES('G201','BOM','DEL','2023-08-02 20:20:0','2023-08-02 21:30:0',100);
